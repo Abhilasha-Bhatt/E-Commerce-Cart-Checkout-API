@@ -1,4 +1,4 @@
-# 🛒 Flipkart-Style E-Commerce Cart & Checkout API
+# 🛒 E-Commerce Cart & Checkout API
 
 This is a RESTful API backend project that simulates key functionalities of a Flipkart-style e-commerce platform, including user authentication, product listings, cart operations, and order checkout. Built using **Flask** and **PostgreSQL**, this project showcases backend engineering and clean API architecture for a scalable e-commerce system.
 
